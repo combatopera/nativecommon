@@ -1,2 +1,6 @@
 #gclean
 *.pyc
+/dist/
+/nativecommon.egg-info/
+/setup.cfg
+/setup.py
