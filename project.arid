@@ -16,8 +16,8 @@
 : along with nativecommon.  If not, see <http://www.gnu.org/licenses/>.
 
 pyversions +=
-    2
     3
+    2
 years += 2017
 author = Andrzej Cichocki
 name = nativecommon
